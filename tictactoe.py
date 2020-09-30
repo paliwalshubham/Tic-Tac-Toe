@@ -106,6 +106,7 @@ from tkinter import *
 from tkinter import messagebox
 root =Tk()  
 root.title("TIC TAC TOE")
+root.wm_iconbitmap("tic-tac-toe_39453.ico")
 
 click = False
 def TTT(button):
